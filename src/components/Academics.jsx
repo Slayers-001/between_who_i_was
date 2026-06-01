@@ -33,20 +33,20 @@ export default function Academics() {
     {
       icon: <Feather className="w-5 h-5 text-[#f5f2eb] stroke-[1.5]" />,
       index: "01",
-      title: "General Proficiency // Rank 1",
-      desc: "Commanding the standard curve with consecutive semesters of absolute academic supremacy in scientific theory and analytical thought."
+      title: "Marks",
+      desc: "Getting More than 90% and says I just got Lucky"
     },
     {
       icon: <Compass className="w-5 h-5 text-[#f5f2eb] stroke-[1.5]" />,
       index: "02",
-      title: "The Olympiad Distinction",
-      desc: "Elite national standing across logic validations and high-velocity mathematical evaluation platforms."
+      title: "Reconization",
+      desc: "Everyone knows her as a topper and she is teachers favourite."
     },
     {
       icon: <Book className="w-5 h-5 text-[#f5f2eb] stroke-[1.5]" />,
       index: "03",
-      title: "Algorithmic Research",
-      desc: "An advanced collection of structural computing logic, translating complex procedural problems into crisp code layouts."
+      title: "Knowledge",
+      desc: "Knows more than Websites creator"
     }
   ];
 
