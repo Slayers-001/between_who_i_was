@@ -8,19 +8,19 @@ export default function Athletics() {
     basketball: {
       title: "COURT COMMANDER",
       role: "Point Guard // Strategy Lead",
-      summary: "Calibrated floor vision. Dictating pacing mechanics, surgical ball distribution, and immediate perimeter execution with tactical clarity.",
+      summary: "VERY OP!!!.",
       metrics: ["High-IQ Setup Play", "Clinical Vision", "Unbroken Transition Rhythm"]
     },
     swimming: {
       title: "AQUATIC MASTER",
       role: "Freestyle Speed Catalyst",
-      summary: "High-cadence hydrodynamics. Fluid catch dynamics mixed with massive lung threshold capacity management to conquer sprint pacing profiles.",
+      summary: "Good Enough to get selected in CBSE clusters.",
       metrics: ["Aerobic Engine Max", "Precision Flip Turns", "Explosive Blocks Drive"]
     },
     skating: {
       title: "VELOCITY CARVER",
       role: "Track Line Strategist",
-      summary: "Cornering physics. Absolute lateral edge distribution control around banked racing lines with precise weight distribution loops.",
+      summary: "I dont know much about it but she is really good at it.",
       metrics: ["Max Lean Velocity", "Cross-Over Cadence", "Track Line Mastery"]
     }
   };
