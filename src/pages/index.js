@@ -1,4 +1,3 @@
-import "../styles/globals.css";
 import React, { useEffect, useState, useRef } from "react";
 import Head from "next/head";
 import { gsap } from "gsap";
