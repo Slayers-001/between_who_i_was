@@ -8,13 +8,13 @@ export default function Athletics() {
     basketball: {
       title: "COURT COMMANDER",
       role: "Point Guard // Strategy Lead",
-      summary: "VERY OP!!!.",
+      summary: "VERY OP!!! AND A NATIONAL LEVEL PLAYER.",
       metrics: ["High-IQ Setup Play", "Clinical Vision", "Unbroken Transition Rhythm"]
     },
     swimming: {
       title: "AQUATIC MASTER",
       role: "Freestyle Speed Catalyst",
-      summary: "Good Enough to get selected in CBSE clusters.",
+      summary: "Good Enough to get selected in National TEAM!.",
       metrics: ["Aerobic Engine Max", "Precision Flip Turns", "Explosive Blocks Drive"]
     },
     skating: {
