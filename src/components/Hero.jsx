@@ -21,7 +21,10 @@ export default function Hero() {
         <div className="global-reveal w-40 h-[1px] bg-gradient-to-r from-transparent via-[#dcd7ca]/30 to-transparent mx-auto my-10" />
         
         <p className="global-reveal italic text-[#dcd7ca] max-w-3xl mx-auto leading-relaxed text-xl md:text-2xl font-light tracking-wide" style={{ fontFamily: "var(--font-serif-body)" }}>
-          "An earnest pursuit of classical academic triumph intertwined with rigorous athletic discipline. A legacy written in ink, proven on the court."
+          "NCSD
+          || अंतः अस्ति प्रारंभ ||
+          Trust?
+          Trust who?"
         </p>
       </div>
 
