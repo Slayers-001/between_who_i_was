@@ -10,7 +10,7 @@ The front-facing terminal portal partitions data into three specialized processi
 🟢 01 // THE HERO COMMAND LAYER
 The initial greeting node displaying core existential parameters. It locks in the strict layout strings:
 
-NCSD (Navy Children School Deployment)
+NCSD (Navy Children School Delhi)
 
 || अंतः अस्ति प्रारंभ || (The end is the beginning)
 
