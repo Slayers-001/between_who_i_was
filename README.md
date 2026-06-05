@@ -1,4 +1,5 @@
 📡 EXECUTIVE MONITOR LOG
+
 Welcome to the interactive digital dossier of Sanvi Rai. This system functions as a high-velocity terminal dashboard tracking scholastic achievements, athletic records, and core personal documentation blocks.
 
 The entire layout is engineered with high-end glassmorphic frames and responsive mouse-tracking node animations that adjust dynamically to user presence.
